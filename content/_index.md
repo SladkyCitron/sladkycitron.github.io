@@ -54,13 +54,13 @@ messaging:
   items:
     - icon: "fas fa-check-circle"
       color: "text-green-400"
-      text: "Please be respectful and polite when messaging me."
+      text: "DMs are open! Feel free to reach out, but please be nice and respectful."
     - icon: "fas fa-check-circle"
       color: "text-green-400"
       text: "Please be patient. I may not always be available to respond immediately."
     - icon: "fas fa-ban"
       color: "text-red-400"
-      text: "Please don't send spam, unsolicited advertisements, or inappropriate content."
+      text: "No spam, unsolicited ads, or NSFW/inappropriate messages."
 
 about:
   title: "About Me"
