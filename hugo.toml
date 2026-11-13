@@ -1,8 +1,11 @@
 baseURL = "https://sladkycitron.dev/"
-locale = "en-us"
 title = "SladkyCitron"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
 
 [params]
 description = "A clean, customizable, and responsive Linktree-style landing page built using HTML, Tailwind CSS, and Font Awesome."
@@ -10,3 +13,12 @@ googleAnalytics = ""
 
 [outputs]
 home = ["HTML"]
+
+[languages]
+  [languages.en]
+    label = "English"
+    locale = "en"
+
+  [languages.sk]
+    label = "Slovenčina"
+    locale = "sk"

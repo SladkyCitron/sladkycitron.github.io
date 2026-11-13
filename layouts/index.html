@@ -1,7 +1,14 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ .Lang }}">
     {{ partial "head.html" . }}
     <body>
+        <div class="flex justify-center gap-3 mt-3 text-xs text-gray-400">
+          {{ range .AllTranslations }}
+            <a href="{{ .RelPermalink }}" class="{{ if eq $.Lang .Lang }}font-bold text-white underline{{ else }}hover:text-white{{ end }}">
+              {{ .Language.LanguageName }}
+            </a>
+          {{ end }}
+        </div>
         <!-- Background Animation -->
         <div class="bg-animation" id="bgAnimation"></div>
 
@@ -28,11 +35,11 @@
             {{ partial "about.html" . }}
 
             <footer class="text-center text-xs opacity-60">
-                © 2025 LucentLink | Made with ❤️
+                {{ i18n "footer" }}
             </footer>
         </div>
 
-        <script src="js/script.js"></script>
-        <script src="js/copy.js"></script>
+        <script src="{{ "js/script.js" | relURL }}"></script>
+        <script src="{{ "js/copy.js" | relURL }}"></script>
     </body>
 </html>
