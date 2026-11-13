@@ -71,7 +71,7 @@ about:
       content: "Momentálne pracujem na rôznych Go projektoch, Vocaloid coveroch a syntetizátore spevu kompatibilnom s UTAU, ktorý je napísaný v Go."
     - heading: "Záujmy"
       content: "Keď neprogramujem, rád hrám hry, chodím na túry, varím, pozerám anime a YouTube a počúvam Vocaloid."
-    - heading: "Hranie hier"
+    - heading: "Gaming"
       content: "Moja obľúbená hra je Project SEKAI. Rád hrám aj iné hry a objavujem nové indie tituly a Minecraft módy."
     - heading: "Vocaloid"
       content: "Som masívnym fanúšikom Hatsune Miku. Mám veľa Miku merchu, počúvam jej hudbu a rád tvorím Vocaloid covery a ďalší obsah. 🥹🩵"
