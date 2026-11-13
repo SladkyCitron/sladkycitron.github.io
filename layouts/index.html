@@ -5,7 +5,7 @@
         <div class="flex justify-center gap-3 mt-3 text-xs text-gray-400">
           {{ range .AllTranslations }}
             <a href="{{ .RelPermalink }}" class="{{ if eq $.Lang .Lang }}font-bold text-white underline{{ else }}hover:text-white{{ end }}">
-              {{ .Language.LanguageName }}
+              {{ .Language.Label }}
             </a>
           {{ end }}
         </div>
@@ -22,7 +22,7 @@
             <!-- Spotify Embed -->
             {{ partial "spotify-track.html" . }}
 
-            <!-- Project SEKAI Section -->            
+            <!-- Project SEKAI Section -->
             {{  partial "pjsk.html" . }}
 
             <!-- Messaging Etiquette section -->
