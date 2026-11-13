@@ -10,6 +10,10 @@ socials:
     icon: "fab fa-github"
   - url: "https://steamcommunity.com/id/SladkyCitron"
     icon: "fab fa-steam"
+  - url: "https://discord.com/users/702153727003328543"
+    icon: "fab fa-discord"
+  - url: "mailto:sladkycitron@duck.com"
+    icon: "fas fa-envelope"
 
 links:
   - href: "https://sladkycitron.dev"
@@ -28,9 +32,30 @@ links:
     icon: "fab fa-steam"
     title: "Steam"
     description: "Join me in gaming adventures"
+  - href: "https://discord.com/users/702153727003328543"
+    icon: "fab fa-discord"
+    title: "Discord"
+    description: "Find me on Discord"
+  - href: "mailto:sladkycitron@duck.com"
+    icon: "fas fa-envelope"
+    title: "Contact Me"
+    description: "Get in touch with me"
 
 spotifyTrack:
   iframe: '<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7mWJKFjHSRggj0ISEY19A7?utm_source=generator&si=4d519fb7f7d44941" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+
+messaging:
+  title: "Messaging Etiquette"
+  items:
+    - icon: "fas fa-check-circle"
+      color: "text-green-400"
+      text: "Please be respectful and polite when messaging me."
+    - icon: "fas fa-check-circle"
+      color: "text-green-400"
+      text: "Please be patient. I may not always be available to respond immediately."
+    - icon: "fas fa-ban"
+      color: "text-red-400"
+      text: "Please don't send spam, unsolicited advertisements, or inappropriate content."
 
 about:
   title: "About Me"
