@@ -1,6 +1,6 @@
-baseURL = 'https://sladkycitron.dev/'
-locale = 'en-us'
-title = 'SladkyCitron'
+baseURL = "https://sladkycitron.dev/"
+locale = "en-us"
+title = "SladkyCitron"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
 
