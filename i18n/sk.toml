@@ -1,6 +1,9 @@
 ["copy_player_id"]
 other = "Skopírovať ID hráča"
 
+["copied"]
+other = "Skopírované!"
+
 ["favorite_song"]
 other = "Môj obľúbený song"
 

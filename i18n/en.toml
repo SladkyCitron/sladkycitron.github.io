@@ -1,6 +1,9 @@
 ["copy_player_id"]
 other = "Copy player ID"
 
+["copied"]
+other = "Copied!"
+
 ["favorite_song"]
 other = "My Favorite Song"
 
