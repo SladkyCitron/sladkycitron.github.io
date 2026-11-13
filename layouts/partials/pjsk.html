@@ -1,0 +1,25 @@
+{{ with .Params.pjsk }}
+<div class="bg-white bg-opacity-10 rounded-lg p-6 mb-6 border border-white border-opacity-20">
+    <div class="flex items-center mb-4">
+        <i class="fa fa-music text-2xl mr-3 mb-1"></i>
+        <h3 class="text-xl font-bold">Project SEKAI</h3>
+    </div>
+
+    <div class="space-y-4">
+        {{ range .ids }}
+        <div class="flex items-center justify-between gap-3">
+            <span class="font-semibold">{{ .server | upper }} SEKAI</span>
+
+            <button
+                type="button"
+                class="text-sm opacity-80 hover:opacity-100 transition"
+                onclick="copyID('{{ .id }}', this)"
+                title="Copy player ID">
+                <span class="player-id">{{ .id }}</span>
+                <i class="fas fa-copy ml-1"></i>
+            </button>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

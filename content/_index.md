@@ -44,6 +44,11 @@ links:
 spotifyTrack:
   iframe: '<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7mWJKFjHSRggj0ISEY19A7?utm_source=generator&si=4d519fb7f7d44941" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 
+pjsk:
+  ids:
+    - server: "en"
+      id: "597493647457402889"
+
 messaging:
   title: "Messaging Etiquette"
   items:
