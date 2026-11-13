@@ -74,5 +74,5 @@ about:
     - heading: "Hranie hier"
       content: "Moja obľúbená hra je Project SEKAI. Rád hrám aj iné hry a objavujem nové indie tituly a Minecraft módy."
     - heading: "Vocaloid"
-      content: "Som masívnym fanúšikom Hatsune Miku. Mám veľa Miku merchu, počúvam jej hudbu a rád tvorím Vocaloid covery a ďalší obsah."
+      content: "Som masívnym fanúšikom Hatsune Miku. Mám veľa Miku merchu, počúvam jej hudbu a rád tvorím Vocaloid covery a ďalší obsah. 🥹🩵"
 ---

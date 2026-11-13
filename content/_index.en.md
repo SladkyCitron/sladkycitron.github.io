@@ -74,5 +74,5 @@ about:
     - heading: "Gaming"
       content: "My favorite game is Project SEKAI. I also enjoy playing other games and exploring new indie titles and Minecraft mods."
     - heading: "Vocaloid"
-      content: "I am a massive fan of Hatsune Miku. I own a lot of Miku merch, listen to her music, and also enjoy making Vocaloid covers and other content."
+      content: "I am a massive fan of Hatsune Miku. I own a lot of Miku merch, listen to her music, and also enjoy making Vocaloid covers and other content. 🥹🩵"
 ---
