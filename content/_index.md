@@ -2,7 +2,7 @@
 title: "SladkyCitron"
 profileImage: "images/pfp.jpg"
 name: "SladkyCitron"
-description: "Go developer | Gamer | Vocaloid fan"
+description: "Go developer | Gamer | Anime/Vocaloid fan"
 socials:
   - url: "https://www.youtube.com/@SladkyCitron"
     icon: "fab fa-youtube"
@@ -31,4 +31,18 @@ links:
 
 spotifyTrack:
   iframe: '<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7mWJKFjHSRggj0ISEY19A7?utm_source=generator&si=4d519fb7f7d44941" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+
+about:
+  title: "About Me"
+  sections:
+    - heading: ""
+      content: "I'm Matúš, a passionate Go developer and Hatsune Miku fan from Slovakia. I love coding, gaming, and Vocaloid, and making cool ideas into working software!"
+    - heading: "Current Focus"
+      content: "Currently working on various Go projects, Vocaloid covers, and an UTAU-compatible singing voice synthesizer written in Go."
+    - heading: "Personal Interests"
+      content: "When I'm not coding, I enjoy gaming, hiking, cooking, watching anime and YouTube, and listening to Vocaloid music."
+    - heading: "Gaming"
+      content: "My favorite game is Project SEKAI. I also enjoy playing other games and exploring new indie titles and Minecraft mods."
+    - heading: "Vocaloid"
+      content: "I am a massive fan of Hatsune Miku. I own a lot of Miku merch, listen to her music, and also enjoy making Vocaloid covers and other content."
 ---
